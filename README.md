@@ -9,6 +9,7 @@
 - 💡 Love turning ideas into reality with code
 - 🔭 Actively exploring Machine Learning, Web Development, and Cloud
 - 💬 Always open to learn, collaborate, and build something awesome!
+- 📫 How to reach me manasasnmng@gmail.com
 
 ---
 ### 🛠️ Languages & Tools I Play With
@@ -45,13 +46,17 @@
 
 ---
 
-### 🌐 Connect With Me  
-You can reach me out through:
+### 🤝 Connect with Me
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />](https://github.com/your-github)  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-link)  
-📩 [manasasnmng@gmail.com](mailto:manasasnmng@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/manasa-sn-/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/manasasnmng" target="_blank" title="GitHub">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" height="40" alt="GitHub (white)" />
+  </a>
+</p>
 
 
 ---
