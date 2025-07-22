@@ -12,20 +12,6 @@
 
 ---
 
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manasa-sn-/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/manasasnmng" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools I Play With
 
 <p align="center">
@@ -57,6 +43,20 @@
 ### ✨ Fun Fact
 
 > 💡 I turn coffee ☕ into code — and bugs 🐞 into features!
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manasa-sn-/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/manasasnmng" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
